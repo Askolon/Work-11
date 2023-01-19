@@ -1,0 +1,56 @@
+body{
+    font-family: 'Inter', sans-serif;
+}
+h1{
+    color:#34495E ;
+    margin: 30px 30px;
+    text-decoration: underline;
+}
+
+p{
+    margin: 40px auto;
+    padding: 10px 30px;
+    width: 90%;
+}
+
+.text1{
+    background-color: #3498DB;
+}
+.text2{
+    background-color: #8E44AD;
+}
+.text3{
+    background-color: #16A085;
+}
+.text{
+    text-align: center;
+    font-size: 30px;
+}
+
+.links{
+    margin: 0 30px;
+}
+.links a{
+    text-decoration: none;
+}
+
+.links img{
+    width: 100px;
+    height: 100px;
+    padding: 0 10px;
+}
+
+.products{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+.products td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+ul li{
+    text-decoration: underline;
+    font-style: italic;
+}
